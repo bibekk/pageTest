@@ -1,2 +1,8 @@
 # pageTest
-public site hosting test
+> Public hosting page test
+
+`git status` shows the status of current code 
+
+**Task Lists**
+- [ ] Complete a site
+- [ ] Share it to users
